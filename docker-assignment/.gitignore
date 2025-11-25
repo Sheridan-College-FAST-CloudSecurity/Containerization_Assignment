@@ -1,0 +1,38 @@
+# AWS CLI installation files
+aws/
+awscliv2.zip
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.venv
+env/
+venv/
+
+# Docker temporary files
+.docker/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Assignment documents (if you have them in repo)
+*.docx
+*.pdf
+media/
